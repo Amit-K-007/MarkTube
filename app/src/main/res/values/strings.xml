@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarkTube</string>
+    <string name="accessibility_service_label">MarkTube Service</string>
+    <string name="accessibility_service_description">my description</string>
+</resources>
